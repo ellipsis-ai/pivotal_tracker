@@ -1,0 +1,10 @@
+{
+  "exportId" : "I6JRZXTjT6Go_IVSXiF-2Q",
+  "name" : "Project",
+  "forcePrivateResponse" : false,
+  "isDataType" : true,
+  "dataTypeConfig" : {
+    "fields" : [ ],
+    "usesCode" : true
+  }
+}
